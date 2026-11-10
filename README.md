@@ -5,7 +5,8 @@ Technologist, systems architect and filmmaker in Fort Collins, Colorado. Princip
 For more than three decades I've built where complex systems meet the people who use them:
 
 - **American Express Europe:** DB2 billing migration and digital card and retail activation
-- **IBM for Telstra and Pacific Bell:** billing, retail and network middleware for one of the first fully digital mobile networks
+- **Telstra, as a contractor through IBM Global Services Australia:** billing, retail and network middleware for one of the first fully digital mobile networks
+- **Kaiser Permanente and Pacific Bell, as an independent contractor:** health-plan membership and quoting systems, and telecom order systems
 - **Xenium:** pre-Google natural-language search (192.com)
 - **San Francisco:** nonprofit, education and public-media infrastructure
 - **Electronic Arts:** launch content
